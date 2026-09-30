@@ -1,0 +1,11 @@
+name: LaPeaceShop
+version: '1.0'
+main: com.example.lapeaceshop.LaPeaceShop
+api-version: '1.20'
+description: LA PEACE Shop using Lapis Lazuli as currency.
+authors: [Mpgtheog]
+commands:
+  shop:
+    description: Opens the LA PEACE Shop GUI
+    permission: lapeaceshop.use
+    usage: /shop
